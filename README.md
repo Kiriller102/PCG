@@ -4,6 +4,7 @@ This repository contains six laboratory works for the course "Computer Graphics 
 
 ## Directory Structure
 
+``` Bash
 PCG
 ├── Lab_1
 │ ├── Code
@@ -29,7 +30,7 @@ PCG
 ├── Code
 ├── Documentations
 └── Executable
-
+```
 ## Lab Descriptions
 
 ### Lab 1: Color Gradient Picker
